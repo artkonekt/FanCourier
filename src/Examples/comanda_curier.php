@@ -14,9 +14,9 @@ try {
   $params = [
     'username' => 'clienttest',
     'user_pass' => 'testare',
-    'client_id' => 7032158,
+    'client_id' => "7032158",
     'pers_contact' => 'Aron Palmarsson',
-    'tel' => 079655437,
+    'tel' => "079655437",
     'email' => 'aron.palmarson@mail.com',
     'greutate' => 1,
     'inaltime' => 10,
